@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+  /** GENERAL **/
+  --page-padding: 1rem;
+
+  /** TEXT **/
+  --base-font-family: "Montserrat", sans-serif;
+  --base-font-size: 20px;
+  --text-color: white;
+  --dark-text-color: black;
+
+  /** UTILITY **/
+  --owner-section-padding: 2rem 4rem;
+}
