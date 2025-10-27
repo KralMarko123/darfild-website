@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/darfild-website/static/css/main.52d3d1c6.css",
+    "main.js": "/darfild-website/static/js/main.41d2359e.js",
+    "static/media/microphone-stand.png": "/darfild-website/static/media/microphone-stand.f85b2966ecf0995194ad.png",
+    "static/media/language-jacks.jpg": "/darfild-website/static/media/language-jacks.b9778f0e34fbdbd04564.jpg",
+    "static/media/darfild-logo-with-pencil.png": "/darfild-website/static/media/darfild-logo-with-pencil.69a590d7baba8c583db6.png",
+    "static/media/microphone-in-conference.jpg": "/darfild-website/static/media/microphone-in-conference.175b99539e5628cd40a1.jpg",
+    "static/media/books-png.png": "/darfild-website/static/media/books-png.ea53fce730ff6279314e.png",
+    "static/media/monitor.png": "/darfild-website/static/media/monitor.ac9859eb3cb68b567012.png",
+    "static/media/flags-table.jpg": "/darfild-website/static/media/flags-table.c733c5d0377aba8a32d2.jpg",
+    "static/media/small-flags.png": "/darfild-website/static/media/small-flags.4c64040f2e5a3eb701e3.png",
+    "static/media/pencil-png.png": "/darfild-website/static/media/pencil-png.43b585e393a1e44b2883.png",
+    "static/media/filip.jpg": "/darfild-website/static/media/filip.ffb2b8296922301849ec.jpg",
+    "static/media/microphone-cartoon.png": "/darfild-website/static/media/microphone-cartoon.80caceeedaec5ee1acf9.png",
+    "index.html": "/darfild-website/index.html",
+    "main.52d3d1c6.css.map": "/darfild-website/static/css/main.52d3d1c6.css.map",
+    "main.41d2359e.js.map": "/darfild-website/static/js/main.41d2359e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52d3d1c6.css",
+    "static/js/main.41d2359e.js"
+  ]
+}
