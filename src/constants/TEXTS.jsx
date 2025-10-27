@@ -32,4 +32,15 @@ export const EN_TEXTS = {
 
   //Interpretation equipment
   EQUIPMENT_1: "4. Interpretation equipment can also be provided upon demand.",
+
+  //Why Darfild
+  WHY_CHOOSE_DARFILD: "Why Choose DARFILD?",
+  WHY_1:
+    "Your sensitive information is safe with us. We prioritize confidentiality and adhere to strict data protection protocols.",
+  WHY_2:
+    "We recognize the value of time. Our team works diligently to meet your deadlines without compromising quality.",
+
+  //Contact
+  CONTACT_1: `At DARFILD, we believe in the power of language to unite people and organizations. We are your trusted partner in bridging cultures and facilitating effective communication. Let us help you navigate the diverse linguistic landscape of today's world.`,
+  CONTACT_2: `Contact us today to discuss your language needs, and let's embark on a journey of understanding and collaboration together.`,
 };

@@ -11,5 +11,6 @@
   --dark-text-color: black;
 
   /** UTILITY **/
+  --container-width: 90%;
   --owner-section-padding: 2rem 4rem;
 }
