@@ -1,10 +1,8 @@
-import React from "react";
 import darfildLogoPencil from "../assets/images/darfild-logo-with-pencil.png";
 import filip from "../assets/images/filip.jpg";
 import books from "../assets/images/books-png.png";
 import microphoneDrawing from "../assets/images/microphone-cartoon.png";
 import pencil from "../assets/images/pencil-png.png";
-import flags from "../assets/images/small-flags.png";
 import { EN_TEXTS } from "../constants/TEXTS.jsx";
 import "./Home.css";
 
