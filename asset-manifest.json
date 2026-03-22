@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/darfild-website/static/css/main.672f9a14.css",
-    "main.js": "/darfild-website/static/js/main.a2406139.js",
+    "main.css": "/darfild-website/static/css/main.bc3df93f.css",
+    "main.js": "/darfild-website/static/js/main.bfb1a04d.js",
     "static/media/microphone-stand.png": "/darfild-website/static/media/microphone-stand.f85b2966ecf0995194ad.png",
     "static/media/language-jacks.jpg": "/darfild-website/static/media/language-jacks.b9778f0e34fbdbd04564.jpg",
     "static/media/darfild-logo-with-pencil.png": "/darfild-website/static/media/darfild-logo-with-pencil.69a590d7baba8c583db6.png",
@@ -13,11 +13,11 @@
     "static/media/filip.jpg": "/darfild-website/static/media/filip.ffb2b8296922301849ec.jpg",
     "static/media/microphone-cartoon.png": "/darfild-website/static/media/microphone-cartoon.80caceeedaec5ee1acf9.png",
     "index.html": "/darfild-website/index.html",
-    "main.672f9a14.css.map": "/darfild-website/static/css/main.672f9a14.css.map",
-    "main.a2406139.js.map": "/darfild-website/static/js/main.a2406139.js.map"
+    "main.bc3df93f.css.map": "/darfild-website/static/css/main.bc3df93f.css.map",
+    "main.bfb1a04d.js.map": "/darfild-website/static/js/main.bfb1a04d.js.map"
   },
   "entrypoints": [
-    "static/css/main.672f9a14.css",
-    "static/js/main.a2406139.js"
+    "static/css/main.bc3df93f.css",
+    "static/js/main.bfb1a04d.js"
   ]
 }
