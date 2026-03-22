@@ -4,16 +4,18 @@ import books from "../assets/images/books-png.png";
 import microphoneDrawing from "../assets/images/microphone-cartoon.png";
 import pencil from "../assets/images/pencil-png.png";
 import { EN_TEXTS } from "../constants/TEXTS.jsx";
+import TopWaveWhite from "../components/TopWaveWhite.jsx";
+import BottomWaveWhite from "../components/BottomWaveWhite.jsx";
 import "./Home.css";
+import "./Mobile.css";
 
 const Home = () => {
   return (
     <div className="page">
       <div id="intro-section" className="section intro">
-        <img src={darfildLogoPencil} alt="logo-with-pencil" />
-        <div className="title">
-          <h1>{EN_TEXTS.TRANSLATION_AND}</h1>
-          <h1>{EN_TEXTS.INTERPRETATION_SERVICES}</h1>
+        <div className="logo">
+          <img src={darfildLogoPencil} alt="logo-with-pencil" />
+          <h1>{EN_TEXTS.TRANSLATION_AND_INTERPRETATION_SERVICES}</h1>
         </div>
 
         <div className="contact">
@@ -26,6 +28,8 @@ const Home = () => {
             {EN_TEXTS.DUNS}, {EN_TEXTS.NCAGE}, {EN_TEXTS.UEID}
           </p>
         </div>
+
+        <BottomWaveWhite />
       </div>
 
       <div id="owner-section" className="section dark-text">
@@ -48,18 +52,23 @@ const Home = () => {
       </div>
 
       <div id="translation-section" className="section">
+        <TopWaveWhite />
+
         <h2>{EN_TEXTS.TRANSLATION_1}</h2>
         <p>{EN_TEXTS.TRANSLATION_2}</p>
+        <div className="section-wave" aria-hidden="true" />
       </div>
 
       <div id="interpretation-section" className="section">
         <h2>{EN_TEXTS.INTERPRETATION_1}</h2>
         <p>{EN_TEXTS.INTERPRETATION_2}</p>
+        <div className="section-wave" aria-hidden="true" />
       </div>
 
       <div id="transcription-section" className="section">
         <h2>{EN_TEXTS.TRANSCRIPTION_1}</h2>
         <p>{EN_TEXTS.TRANSCRIPTION_2}</p>
+        <BottomWaveWhite />
       </div>
 
       <div id="why-section" className="section dark-text">
@@ -84,10 +93,14 @@ const Home = () => {
       </div>
 
       <div id="end-section" className="section">
-        <img className="logo" src={darfildLogoPencil} alt="logo-with-pencil" />
-        <div className="title">
-          <h1>{EN_TEXTS.TRANSLATION_AND}</h1>
-          <h1>{EN_TEXTS.INTERPRETATION_SERVICES}</h1>
+        <TopWaveWhite />
+        <div className="end-logo">
+          <img
+            className="logo"
+            src={darfildLogoPencil}
+            alt="logo-with-pencil"
+          />
+          <h1>{EN_TEXTS.TRANSLATION_AND_INTERPRETATION_SERVICES}</h1>
         </div>
       </div>
     </div>

@@ -14,3 +14,17 @@
   --section-padding: 5rem 2rem;
   --container-width: 80%;
 }
+
+@media (max-width: 1440px) {
+  :root {
+    /** GENERAL **/
+    --page-padding: 0.5rem;
+
+    /** TEXT **/
+    --base-font-size: 18px;
+
+    /** UTILITY **/
+    --section-padding: 2rem 1rem;
+    --container-width: 90%;
+  }
+}

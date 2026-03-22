@@ -7,8 +7,8 @@ export const EN_TEXTS = {
   DUNS: "DUNS - 499333098",
   NCAGE: "NCAGE - A06XC",
   UEID: "UEID/SAM - P16AWA3RSMY5",
-  TRANSLATION_AND: "Translation and",
-  INTERPRETATION_SERVICES: "Interpretation Services",
+  TRANSLATION_AND_INTERPRETATION_SERVICES:
+    "Translation and Interpretation Services",
 
   //Owner
   OWNER_AND_MANAGER: "Owner and Manager",
