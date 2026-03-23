@@ -1,5 +1,5 @@
 {
-  "homepage": "https://kralmarko123.github.io/darfild-website",
+  "homepage": "https://darfild.com",
   "name": "darfild-website",
   "version": "1.0.0",
   "description": "",
@@ -31,6 +31,7 @@
     ]
   },
   "devDependencies": {
+    "baseline-browser-mapping": "^2.10.10",
     "gh-pages": "^6.3.0"
   }
 }
