@@ -81,9 +81,9 @@ const Home = () => {
         <h2>{TEXTS.EQUIPMENT_1}</h2>
 
         <div className="microphone">
+          <img id="why-pencil" src={pencil} alt="pencil-icon" />
           <img src={microphoneDrawing} alt="cartoon-microphone" />
           <div className="why-texts">
-            <img src={pencil} alt="pencil-icon" />
             <div className="first">
               <p>{TEXTS.WHY_CHOOSE_DARFILD}</p>
               <p>{TEXTS.WHY_1}</p>
